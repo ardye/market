@@ -1,1 +1,2 @@
-static/* linguist-vendored
+*.C linguist-language=C++
+*.H linguist-language=C++
